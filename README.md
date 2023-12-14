@@ -1,6 +1,6 @@
 # Sobre mí
 
-¡Hola! 👋 Soy Luis, un apasionado junior desarrollador web en búsqueda de oportunidades para aprender y crecer en el mundo del desarrollo. 
+¡Hola! 👋 Soy Luis, un apasionado desarrollador web en búsqueda de oportunidades para aprender y crecer en el mundo del desarrollo. 
 
 ## Tecnologías
 
