@@ -9,7 +9,7 @@
 - Otras: Figma, Git, Bash Scripting, Dockers.
 
 ## Proyectos Importantes
-- Red social Boomchats: https://boomchats.onrender.com/
+- Red social Boomchats: https://boomchats.onrender.com/ (conexión mala)
 
 ## Contacto
 
