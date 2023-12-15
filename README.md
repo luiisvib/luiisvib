@@ -8,6 +8,9 @@
 - Back-end: Python, Node.js, Express.js, Nginx, Squid, Apache, Mysql.
 - Otras: Figma, Git, Bash Scripting, Dockers.
 
+## Proyectos Importantes
+- Red social Boomchats: https://boomchats.onrender.com/
+
 ## Contacto
 
 Puedes encontrarme en:
